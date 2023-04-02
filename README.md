@@ -1,2 +1,5 @@
 # angular_crud
-Angular 14 CRUD with .NET 6 app
+
+Using .NET 6 to create the API (Entity Framework Core) 
+Using ANgular for front-end
+
